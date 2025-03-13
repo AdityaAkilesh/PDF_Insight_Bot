@@ -23,7 +23,7 @@ The **PDF Insight Bot** is a Streamlit-based web application that allows users t
 ## 📂 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
- git clone https://github.com/your-repo/pdf-insight-bot.git
+ git clone https://github.com/AdityaAkilesh/PDF_Insight_Bot.git
  cd pdf-insight-bot
 ```
 
